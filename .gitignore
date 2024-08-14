@@ -1,0 +1,3 @@
+uploads/videos/**/*.ts
+uploads/videos/**
+!uploads/videos/**/*.m3u8
